@@ -36,15 +36,15 @@
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/debounce": "^1.2.0",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
-    "debounce": "^1.2.0",
+    "debounce": "^1.2.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "global": "^4.4.0",
     "http-proxy-middleware": "^1.0.6",
     "postcss": "^8.1.1",
-    "sirv-cli": "^1.0.0",
+    "sirv-cli": "^1.0.14",
     "svelte-spa-router": "^3.0.3"
   }
 }
