@@ -93,7 +93,7 @@
       </div>
       <div
         class="flex-1 flex items-center justify-center md:items-stretch md:justify-start">
-        <div class="hidden md:block md:ml-6 w-full">
+        <div class="hidden md:block md:ml-6 w-full menu-list">
           <ul class="flex justify-between">
             {#each headerItems as headerItem}
               <li class="text-infer">

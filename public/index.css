@@ -17100,10 +17100,25 @@ video {
   color: rgba(112, 36, 89, var(--text-opacity));
 }
 
+.menu-list {
+  flex-wrap: wrap;
+}
+
+.menu-list .text-infer {
+  min-width: 100px;
+}
+
 .text-infer {
   --text-opacity: 1;
   color: #2e85ff;
   color: rgba(46, 133, 255, var(--text-opacity));
+}
+
+.text-infer a {
+  text-align: center;
+  display: block;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .text-infer-action {
